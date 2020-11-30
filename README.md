@@ -1,5 +1,11 @@
-### Hi there 👋
+### Hi there, I'm Terodom 👋
+I'm Sebastian Muxel or better known on the net as Terodom.
+I'm a C# Mobile Developer from Austria.
 
+#### Reach out to me
+- Discord: Terodom#0001
+- Twitter: [`Terodoom`][Twitter]
+- E-Mail: [`sebastian@muxel.dev`][Email]
 <!--
 **Terodom/terodom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
