@@ -6,6 +6,7 @@ I'm a C# Mobile Developer from Austria.
 - Discord: Terodom#0001
 - Twitter: [`Terodoom`][Twitter]
 - E-Mail: [`sebastian@muxel.dev`][Email]
+
 <!--
 **Terodom/terodom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,3 +21,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- LINK DUMP -->
+[Twitter]:                https://twitter.com/terodoom
+[Email]:                  sebastian@muxel.dev
