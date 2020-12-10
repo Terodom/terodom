@@ -1,26 +1,25 @@
 ### Hi there, I'm Terodom 👋
-I'm Sebastian Muxel or better known on the net as Terodom.
-I'm a C# Mobile Developer from Austria.
+Cheers, my name is Sebastian Muxel and i'm a Developer from Vorarlberg, Austria.
+I'm a massive Linux Nerd and use it exclusively at home since 2016.
+Since early 2020 i'm a professional Mobile Developer working with C# and Xamarin.Forms,  
+but in my free time i use C++ extensively.  
+
+Lately i have been very interested into Operating Systems, Device Drivers and Compilers  
+so i'm starting to delve into that mess.
+
 
 #### Reach out to me
 - Discord: Terodom#0001
 - Twitter: [`Terodoom`][Twitter]
 - E-Mail: [`sebastian@muxel.dev`][Email]
 
-<!--
-**Terodom/terodom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Some Facts about me
+- Runs on Arch Linux
+- Loves Drum and Bass Music
+- Loves Unordered Lists
+
 
 <!-- LINK DUMP -->
 [Twitter]:                https://twitter.com/terodoom
